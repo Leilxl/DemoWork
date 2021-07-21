@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hjq:xtoast:2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d9f32982f8abcc89b83a238de9ca9c14/xtoast-2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d9f32982f8abcc89b83a238de9ca9c14/xtoast-2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d9f32982f8abcc89b83a238de9ca9c14/xtoast-2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hjq/xtoast/2.0/a8fb72be9f9a0faf98bad139dd6e1767ec993248/xtoast-2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hjq/xtoast/2.0/4e4c463050238018f8d38b69937e52802e65a478/xtoast-2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

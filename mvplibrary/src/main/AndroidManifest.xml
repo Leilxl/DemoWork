@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lxl.mvplibrary" >
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application android:networkSecurityConfig="@xml/network_security_config">
+        <activity
+            android:name="com.lxl.mvplibrary.network.environment.NetworkEnvironmentActivity"
+            android:label="@string/network_environment_setting"
+            android:screenOrientation="portrait" />
+    </application>
+</manifest>
